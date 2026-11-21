@@ -1,6 +1,6 @@
-[![GTA VI Trophy Rarity Forecast 01](https://make.fun/api/competitions/gta6-trophy-rarity-forecast-01/badge.svg)](https://make.fun/competitions/gta6-trophy-rarity-forecast-01)
-[![Rank](https://make.fun/api/competitions/gta6-trophy-rarity-forecast-01/rank/lumuti118.svg)](https://make.fun/competitions/gta6-trophy-rarity-forecast-01)
-[![Reward $250](https://make.fun/api/competitions/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/competitions/gta6-trophy-rarity-forecast-01)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/lumuti118/gta6-trophy-rarity-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/lumuti118/gta6-trophy-rarity-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
 
 # GTA VI Trophy Rarity Forecaster
 
